@@ -1,0 +1,6 @@
+getgenv().config = {
+    enabled = true, --dont change this
+    ModelWeapon = "swordname", --change this
+    Animation = "swordname", --change this
+    FX = "swordname" --change this
+}
